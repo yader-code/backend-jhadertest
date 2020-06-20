@@ -2,4 +2,6 @@ runtime: java8
 instance_class: F1
 service: demo-api-rest
 handlers:
-  expiration: 1d 12h
+  http_headers:
+    X-Foo-Header: foo
+    X-Bar-Header: bar value
