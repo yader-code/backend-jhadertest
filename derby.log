@@ -1,10 +1,10 @@
 ----------------------------------------------------------------
-Sat Jun 20 08:58:58 COT 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-d206-77b3-00000c2c7750 
-on database directory memory:/home/jhader-palomeque/Documents/personal-projects/backend-jhadertest/jhadertest with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Sat Jun 20 19:48:40 COT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-d459-470a-00000ceecac8 
+on database directory memory:/home/jhader-palomeque/Documents/personal-projects/backend-jhadertest/jhadertest with class loader sun.misc.Launcher$AppClassLoader@7f31245a 
 Loaded from file:/home/jhader-palomeque/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Ubuntu
-java.runtime.version=11.0.7+10-post-Ubuntu-2ubuntu218.04
+java.vendor=Private Build
+java.runtime.version=1.8.0_252-8u252-b09-1~18.04-b09
 user.dir=/home/jhader-palomeque/Documents/personal-projects/backend-jhadertest
 os.name=Linux
 os.arch=amd64

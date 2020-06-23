@@ -1,7 +1,0 @@
-runtime: java8
-instance_class: F1
-service: demo-api-rest
-handlers:
-  http_headers:
-    X-Foo-Header: foo
-    X-Bar-Header: bar value
