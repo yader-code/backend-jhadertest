@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Tue Jun 23 08:27:43 COT 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-e15c-ed59-0000200a8850 
+Tue Jun 23 13:33:13 COT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-e274-9db1-0000130981c8 
 on database directory memory:/home/jhader-palomeque/Documents/personal-projects/backend-jhadertest/jhadertest with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 Loaded from file:/home/jhader-palomeque/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Private Build
@@ -11,3 +11,6 @@ os.arch=amd64
 os.version=5.3.0-59-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 23 13:34:17 COT 2020:
+Shutting down instance a816c00e-0172-e274-9db1-0000130981c8 on database directory memory:/home/jhader-palomeque/Documents/personal-projects/backend-jhadertest/jhadertest with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
