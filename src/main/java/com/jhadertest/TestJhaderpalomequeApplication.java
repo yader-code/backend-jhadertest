@@ -2,11 +2,10 @@ package com.jhadertest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@SpringBootApplication(exclude = {/*EmbeddedServletContainerAutoConfiguration.class, */WebMvcAutoConfiguration.class})
+@SpringBootApplication
 public class TestJhaderpalomequeApplication {
 
 	public static void main(String[] args) {
